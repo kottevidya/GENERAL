@@ -9,7 +9,7 @@
 
 ```$ sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf```
 
-# 2.Change  bind-address = 127.0.0.1 to bind-address =0.0.0.0
+#2.Change  bind-address = 127.0.0.1 to bind-address =0.0.0.0
 
         *  (This will cause MySQL to allow inbound connections.)
 
@@ -39,7 +39,7 @@
 * 5.Before you exit the MySQL prompt, enter the command below to view information about the position and file of the Master Server
 
 
-[!image]
+[!image][https://raw.githubusercontent.com/Ankireddykatha/GENERAL/master/photos/replicationrds.png?token=AK7N64AFZBCZTCBXOLFFDE26T4SX6]
 
    
 
