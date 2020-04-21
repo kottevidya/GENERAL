@@ -84,12 +84,13 @@ call mysql.rds_set_external_master(
 * 4.Then, log in to MySQL RDS
  ```Mysql -h <> -u <> -p```
 
+[!image2][https://raw.githubusercontent.com/Ankireddykatha/GENERAL/master/photos/replimyrds2.png?token=AK7N64C5KS5EQDS6PPZIJJS6T4S7U]
 
-follow this links
+#follow this links
 
 ``` 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql_rds_set_external_master.html
-'''
+```
 
 ```
 https://www.alibabacloud.com/blog/how-to-configure-mysql-master-slave-replication-on-ubuntu-16-04_593982 ```
